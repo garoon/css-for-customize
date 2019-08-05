@@ -68,7 +68,6 @@
 /** メッセージ **/
 .message_text_grn_kit {
   display: inline-block;
-  padding-right: 20px;
   line-height: 1.2;
   vertical-align: top;
   white-space: normal;
@@ -860,7 +859,7 @@ button[disabled]:hover {
   margin-right: 20px;
 }
 
-.margin_lr2_grn_kit {
+.margin_l2_grn_kit {
   margin-left: 2px;
 }
 
