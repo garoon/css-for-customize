@@ -178,6 +178,7 @@
   text-align: center;
   border-radius: 0;
   font-size: 16px;
+  cursor: pointer;
 }
 
 .button_normal_sub_grn_kit,
@@ -190,6 +191,7 @@
   border-radius: 0;
   vertical-align: middle;
   font-size: 14px;
+  cursor: pointer;
 }
 
 .button_attention_grn_kit,
@@ -430,6 +432,7 @@ button[disabled]:hover {
   font-size: 14px;
   text-decoration: none;
   white-space: nowrap;
+  cursor: pointer;
 }
 
 .navi_viewchange_grn_kit .button_group_li_grn .button_group_item_grn,
