@@ -410,10 +410,10 @@ button[disabled]:hover {
 .navi_viewchange_grn_kit li {
   margin: 0;
   padding: 0;
-  display: inline;
+  display: inline-block;
   text-align: left;
   list-style: none;
-  line-height: 150%;
+  line-height: 1;
 }
 
 .navi_viewchange_grn_kit .button_group_li_grn .button_group_item_grn,
