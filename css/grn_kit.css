@@ -500,24 +500,7 @@ button[disabled]:hover {
 }
 
 .navi_viewchange_grn_kit .button_group_li_grn .button_group_item_grn {
-  border-radius: 0;
-}
-
-.navi_viewchange_grn_kit .button_group_ul_grn .button_group_li_grn:first-child .button_group_item_grn,
-.navi_viewchange_grn_kit .navi_viewchange_left_grn,
-.navi_viewchange_grn_kit .navi_viewchange_left_grn span,
-.navi_viewchange_grn_kit .navi_viewchange_left_grn:link,
-.navi_viewchange_grn_kit .navi_viewchange_left_grn:visited,
-.navi_viewchange_grn_kit .navi_viewchange_left_select_grn span {
-  border-radius: 0;
-}
-
-.navi_viewchange_grn_kit .button_group_ul_grn .button_group_li_grn:last-child .button_group_item_grn,
-.navi_viewchange_grn_kit .navi_viewchange_right_grn,
-.navi_viewchange_grn_kit .navi_viewchange_right_grn span,
-.navi_viewchange_grn_kit .navi_viewchange_right_grn:link,
-.navi_viewchange_grn_kit .navi_viewchange_right_grn:visited,
-.navi_viewchange_grn_kit .navi_viewchange_right_select_grn span {
+  margin: 0;
   border-radius: 0;
 }
 
