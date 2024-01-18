@@ -238,8 +238,8 @@
   margin-right: 60px;
 }
 
-button[disabled],
-button[disabled]:hover {
+button[disabled].button_normal_grn_kit,
+button[disabled].button_normal_grn_kit:hover {
   border: 1px solid #b6b6b6;
   background-color: #eee;
   color: #222;
